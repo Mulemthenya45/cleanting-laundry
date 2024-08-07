@@ -1,0 +1,92 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+nav
+{
+    position: fixed;
+    background-color: skyblue;
+    height: 70px;
+    width: 100%;
+    z-index: 1;
+}
+.logo {
+    color: white;
+    font-weight: bold;
+    font-family: 'Forte', cursive;
+    font-size: 1.5rem;
+    padding: 10px;
+    background-color: #4e7aad; /* Blue background for logo */
+    border-radius: 50%; /* Oval shape */
+    margin-right: 15px;
+}
+ul
+{
+    position: relative;
+    float: right;
+    margin-right: 20px;
+
+
+}
+ul li
+{
+    display: inline-block;
+    line-height: 70px;
+    margin: 0 5px;
+}
+ul li a 
+{
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+}
+.main_img 
+{
+width:100%;
+height: 300px;
+}
+.section1
+{
+    padding: 0px;
+  
+}
+.img_text
+{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    color: whitesmoke;
+    background-color: midnightblue;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 30px;
+}
+.login-container
+{
+    background-color: lavender;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(20, 5, 235, 0.1);
+    
+}
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+label {
+    margin-bottom: 5px;
+    color: rgba(27, 4, 68, 0.603);
+}
+
+input {
+    padding: 8px;
+}

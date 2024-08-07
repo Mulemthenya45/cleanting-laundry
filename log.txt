@@ -1,0 +1,44 @@
+
+{"Body":{"stkCallback":{"MerchantRequestID":"be17-4b49-886b-71ba6eedc4f21138521","CheckoutRequestID":"ws_CO_25022024163258192797193312","ResultCode":1032,"ResultDesc":"Request cancelled by user"}}}
+{"Body":{"stkCallback":{"MerchantRequestID":"6e86-45dd-91ac-fd5d4178ab52555240","CheckoutRequestID":"ws_CO_25022024163323858797193312","ResultCode":1032,"ResultDesc":"Request cancelled by user"}}}
+totalCost=675&clientMpesaNumber=0797193312&submit=
+totalCost=675&clientMpesaNumber=0797193312&submit=
+totalCost=1&clientMpesaNumber=0797193312&submit=
+totalCost=1&clientMpesaNumber=0797193312&submit=
+{"Body":{"stkCallback":{"MerchantRequestID":"be17-4b49-886b-71ba6eedc4f21139164","CheckoutRequestID":"ws_CO_25022024173236319797193312","ResultCode":1032,"ResultDesc":"Request cancelled by user"}}}
+totalCost=1&clientMpesaNumber=0797193312&submit=
+{"Body":{"stkCallback":{"MerchantRequestID":"53e3-4aa8-9fe0-8fb5e4092cdd556421","CheckoutRequestID":"ws_CO_25022024173415071797193312","ResultCode":1032,"ResultDesc":"Request cancelled by user"}}}
+totalCost=1&clientMpesaNumber=0797193312&submit=
+{"Body":{"stkCallback":{"MerchantRequestID":"6e86-45dd-91ac-fd5d4178ab52555738","CheckoutRequestID":"ws_CO_25022024173247927797193312","ResultCode":1032,"ResultDesc":"Request cancelled by user"}}}
+
+
+
+
+
+
+totalCost=1&clientMpesaNumber=0797193312&submit=
+totalCost=1&clientMpesaNumber=0797193312&submit=
+{"Body":{"stkCallback":{"MerchantRequestID":"53e3-4aa8-9fe0-8fb5e4092cdd556477","CheckoutRequestID":"ws_CO_25022024174034025797193312","ResultCode":2001,"ResultDesc":"The initiator information is invalid."}}}
+totalCost=1&clientMpesaNumber=0797193312&submit=
+{"Body":{"stkCallback":{"MerchantRequestID":"c0d2-4b9a-a71a-12bae346ef6e216252","CheckoutRequestID":"ws_CO_25022024174053357797193312","ResultCode":0,"ResultDesc":"The service request is processed successfully.","CallbackMetadata":{"Item":[{"Name":"Amount","Value":1.00},{"Name":"MpesaReceiptNumber","Value":"SBP15W75ZR"},{"Name":"Balance"},{"Name":"TransactionDate","Value":20240225173833},{"Name":"PhoneNumber","Value":254797193312}]}}}}
+
+
+
+totalCost=4000&clientMpesaNumber=0797193312&submit=
+
+
+totalCost=4000&clientMpesaNumber=0797193312&submit=
+totalCost=4000&clientMpesaNumber=0797193312&submit=
+totalCost=4000&clientMpesaNumber=0797193312&submit=
+totalCost=4000&clientMpesaNumber=0797193312&submit=
+{"Body":{"stkCallback":{"MerchantRequestID":"2ba8-4165-beca-292db11f9ef81398992","CheckoutRequestID":"ws_CO_28022024141001916797193312","ResultCode":1032,"ResultDesc":"Request cancelled by user"}}}
+totalCost=4000&clientMpesaNumber=0797193312&submit=
+totalCost=619.51&clientMpesaNumber=0797193312&submit=
+totalCost=619.51&clientMpesaNumber=0797193312&submit=
+totalCost=653.93&clientMpesaNumber=0797193312&submit=
+totalCost=64.9&clientMpesaNumber=0797193312&submit=
+totalCost=653.93&clientMpesaNumber=0797193312&submit=
+totalCost=64.9&clientMpesaNumber=0797193312&submit=
+totalCost=1270&clientMpesaNumber=0797193312&submit=
+totalCost=1270&clientMpesaNumber=0797193312&submit=
+{"Body":{"stkCallback":{"MerchantRequestID":"2ba8-4165-beca-292db11f9ef81815142","CheckoutRequestID":"ws_CO_03032024151632229797193312","ResultCode":1032,"ResultDesc":"Request cancelled by user"}}}
